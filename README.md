@@ -19,7 +19,7 @@
 - Коммуникация
 
 ## Мои проекты
-- [Мои проекты](https://github.com/NatalyaMoroz/My_project/tree/main)
+- [Pet-проекты](https://github.com/NatalyaMoroz/My_project/tree/main)
 - [ЯндексПрактикум](https://github.com/NatalyaMoroz/Practicum_projects)
 
 ## Связь со мной
