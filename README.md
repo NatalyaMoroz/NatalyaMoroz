@@ -19,7 +19,7 @@
 - Коммуникация
 
 ## Мои проекты
-- [Проекты](https://github.com/NatalyaMoroz/Practicum_projects)
+- [Учебные проекты](https://github.com/NatalyaMoroz/Practicum_projects)
 
 ## Связь со мной
 - [Телеграм](https://t.me/@Frost_Nat)
