@@ -21,6 +21,7 @@
 ## Мои проекты
 - [Pet-проекты](https://github.com/NatalyaMoroz/My_project/tree/main)
 - [ЯндексПрактикум](https://github.com/NatalyaMoroz/Practicum_projects)
+- [Практика SQL](https://github.com/NatalyaMoroz/SQL_practice)
 
 ## Связь со мной
 - [Телеграм](https://t.me/@Frost_Nat)
